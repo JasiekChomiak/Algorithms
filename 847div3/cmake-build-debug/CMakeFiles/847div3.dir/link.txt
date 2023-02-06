@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/847div3.dir/D.cpp.o -o 847div3 

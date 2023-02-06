@@ -1,3 +1,0 @@
-/home/jasiek/codeforces/847div3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/jasiek/codeforces/847div3/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jasiek/codeforces/847div3/cmake-build-debug/CMakeFiles/847div3.dir
