@@ -40,10 +40,10 @@ void solve() {
         return;
     }
 
-    if (l1[0] == l2[1]) {
-        w = l2 + l1[n - 2];
-    } else {
+    if (l1.substr(1, n - 2) == l2.substr(0, n - 2)) {
         w = l1 + l2[n - 2];
+    } else {
+        w = l2 + l1[n - 2];
     }
 
     for (int i = 0; i < n / 2; ++i) {
